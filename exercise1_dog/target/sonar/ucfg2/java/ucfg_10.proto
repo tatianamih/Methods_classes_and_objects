@@ -1,0 +1,87 @@
+
+1by.jrr.jis4.bean.Dog#toString()Ljava/lang/String;ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java7 7("1*ÿ
+1ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java8 8(Ä
+Á
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java8 9(
+%0java.lang.String"__concat*
+Dog{*
+age=Ò
+Ï
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java8 9(
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+""Ù
+Ö
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java8 :(
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+	, color='Ñ
+Î
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java: :(#
+%3java.lang.String"__id*#*!
+by.jrr.jis4.bean.Dog"
+colorä
+á
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java8 :(#
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.StringÒ
+Ï
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java8 :(*
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+""Ø
+Õ
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java8 ;(
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+
+, name='Ð
+Í
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java; ;(!
+%7java.lang.String"__id*"* 
+by.jrr.jis4.bean.Dog"
+nameä
+á
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java8 ;(!
+%8java.lang.String"__concat*
+
+%6java.lang.String*
+
+%7java.lang.StringÒ
+Ï
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java8 ;((
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+""Ó
+Ð
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java8 <(
+%10java.lang.String"__concat*
+
+%9java.lang.String*
+"""¦
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java8 <(
+
+%10java.lang.StringB
+by.jrr.jis4.bean.Dog

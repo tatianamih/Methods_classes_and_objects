@@ -1,0 +1,112 @@
+
+0by.jrr.jis4.bean.Dog#equals(Ljava/lang/Object;)Zˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java( (("startingBlock*Ü
+2ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java. .(Ð
+Í
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java. .(
+%5java.lang.String"__id*"* 
+by.jrr.jis4.bean.Dog"
+nameÕ
+Ò
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java. .($
+%6java.lang.String"__id*'*%
+
+dogby.jrr.jis4.bean.Dog"
+name›˜
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java. .(%
+%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%5java.lang.String*
+
+%6java.lang.String2equals(Ljava/lang/Object;)*
+1*·
+startingBlockˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java( ((#Ñ
+Î
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java' '(
+%8"
+__annotate*
+java.lang.Override*
+
+ojava.lang.Object»
+¸
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java(! (("
+ojava.lang.Object"__annotation*
+
+%8*	
+6
+7
+9*á
+4ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java- -(Ñ
+Î
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java- -(
+%2java.lang.String"__id*#*!
+by.jrr.jis4.bean.Dog"
+colorÖ
+Ó
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java- -(&
+%3java.lang.String"__id*(*&
+
+dogby.jrr.jis4.bean.Dog"
+color›˜
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java- -('
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%2java.lang.String*
+
+%3java.lang.String2equals(Ljava/lang/Object;)*
+2
+1*æ
+5ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java+ +(Ê
+Ç
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java+ +(
+dogby.jrr.jis4.bean.Dog"__id*
+
+ojava.lang.Object*	
+2
+4
+1*¤
+6ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java*< *(A"“
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java*5 *(B
+""*
+7ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java* *(!ùö
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java* *(#
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+by.jrr.jis4.bean.Dog2
+getClass()øõ
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java*' *(3
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+ojava.lang.Object2
+getClass()*
+5
+6*¤
+9ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java) )(""“
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java) )(#
+""*¤
+1ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java, .(&"“
+ˆ
+~C:/Users/user/IdeaProjects/lecture_intensive/Methods_classes_and_objects/exercise1_dog/src/main/java/by/jrr/jis4/bean/Dog.java, .(&
+"":
+ojava.lang.ObjectB
+by.jrr.jis4.bean.Dog

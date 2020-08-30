@@ -1,0 +1,7 @@
+organization=tatianamih
+projectKey=tatianamih_Methods_classes_and_objects
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.11367
+dashboardUrl=https://sonarcloud.io/dashboard?id=tatianamih_Methods_classes_and_objects
+ceTaskId=AXRBWF-DdvyUlKXQvigM
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXRBWF-DdvyUlKXQvigM
